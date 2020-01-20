@@ -6,7 +6,7 @@ public class ChessPosition {
 
 	
 	private char column;
-	private int row;
+	private int row;	
 	
 	public ChessPosition(char column, int row) {
 	
